@@ -71,7 +71,7 @@ h3 {
 }
 
 .banner-contact {
-  background-color: #2EC4B6; /* Replace with your image path */
+  background-color: #1f8379; /* Replace with your image path */
   background-size: cover; /* Scales the image to cover the entire container */
   background-position: center; /* Centers the image within the container */
   background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -234,11 +234,13 @@ h5 {
     background-color: rgb(255, 191, 105,0.8);    
     margin-left: 200px;
     padding : 20px;
+    border-radius: 10px;
 }
 
 .paraimg3 {
     background-color: rgb(255, 191, 105,0.8);    
     padding : 20px;
+    border-radius: 10px;
 }
 
 .banner-contact2 {
@@ -295,4 +297,27 @@ h5 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+}
+.Salfordtext{
+    background-color: rgb(255, 191, 105,0.8);    
+    border-radius: 10px;
+    color: black;
+    justify-content: center;
+    display: inline-block;
+    padding: 1
+    
+
+    
+    
+
+}
+.parent-containerSal{
+        display: flex;
+        color: black;
+        border-radius: 15px;
+        box-decoration-break: clone;
+        padding: 5px 10px;
+        column-gap: 20px;
+        justify-content: center;
+        
 }
